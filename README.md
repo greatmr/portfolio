@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # myCV
 
 ## Build Setup
@@ -71,4 +70,3 @@ More information about the usage of this directory in [the documentation](https:
 =======
 # portfolio
 my portfolio
->>>>>>> 01c2158b4e429c5030a78230b6cb2e4fc889aacf
